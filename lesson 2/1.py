@@ -1,0 +1,6 @@
+print('whats your name?')
+print('how old are you?')
+print('where are you live?')
+print('this is', input())
+print('it is', input())
+print('(S)hi live in', input())

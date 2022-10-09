@@ -1,0 +1,6 @@
+print('enter two numbers')
+x = input()
+y = input()
+print('the sum of these numbers', x, '+', y, '=', int(x) + int(y))
+print('product of numbers', x, '*', y, '=', int(x) * int(y))
+print('difference of numbers', x, '/', y, '=', int(x) / int(y))
